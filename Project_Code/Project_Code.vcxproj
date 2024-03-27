@@ -135,6 +135,9 @@
     <ClInclude Include="dot.h" />
     <ClInclude Include="functions.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="dot.asm" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
