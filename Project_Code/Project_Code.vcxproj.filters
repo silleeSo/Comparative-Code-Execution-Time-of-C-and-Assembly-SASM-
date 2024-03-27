@@ -34,7 +34,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="dot.asm">
+    <None Include="main.asm">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
