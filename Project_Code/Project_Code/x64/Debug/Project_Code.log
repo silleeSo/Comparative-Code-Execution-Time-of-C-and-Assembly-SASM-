@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Dana\Desktop\Personal\School\DLSU\Acads\2023 - 2024\Term 2\LBYARCH\Assessments\LBYARCH-MP2\Project_Code\main.c(14,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.obj : error LNK2019: unresolved external symbol dotProduct referenced in function main
+C:\Users\Dana\Desktop\Personal\School\DLSU\Acads\2023 - 2024\Term 2\LBYARCH\Assessments\LBYARCH-MP2\Project_Code\x64\Debug\Project_Code.exe : fatal error LNK1120: 1 unresolved externals
