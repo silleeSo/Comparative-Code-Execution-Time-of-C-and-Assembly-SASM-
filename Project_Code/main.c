@@ -4,6 +4,9 @@
 #include <math.h>
 #include "dot.h"
 #include "functions.h"
+
+extern double getDotProduct(double* vector1, double vector2, int size);
+
 int main() {
     clock_t begin = clock();
     double* vector1;
