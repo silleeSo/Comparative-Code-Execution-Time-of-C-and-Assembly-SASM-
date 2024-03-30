@@ -5,7 +5,7 @@
 #include "dot.h"
 #include "functions.h"
 
-extern double dotProduct(double* vector1, double vector2, int size);
+extern double getDotProduct(double* vector1, double vector2, int size);
 
 int main() {
     clock_t begin = clock();

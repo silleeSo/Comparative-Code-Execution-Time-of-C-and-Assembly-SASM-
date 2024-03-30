@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D84A3630-C4B5-4DB9-B7DD-A04458949E62}|Project_Code.vcxproj|C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\dot.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D84A3630-C4B5-4DB9-B7DD-A04458949E62}|Project_Code.vcxproj|solutionrelative:dot.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D84A3630-C4B5-4DB9-B7DD-A04458949E62}|Project_Code.vcxproj|C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\dot.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D84A3630-C4B5-4DB9-B7DD-A04458949E62}|Project_Code.vcxproj|solutionrelative:dot.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D84A3630-C4B5-4DB9-B7DD-A04458949E62}|Project_Code.vcxproj|C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\dot.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D84A3630-C4B5-4DB9-B7DD-A04458949E62}|Project_Code.vcxproj|solutionrelative:dot.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D84A3630-C4B5-4DB9-B7DD-A04458949E62}|Project_Code.vcxproj|C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "dot.asm",
               "DocumentMoniker": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\dot.asm",
               "RelativeDocumentMoniker": "dot.asm",
               "ToolTip": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\dot.asm",
               "RelativeToolTip": "dot.asm",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-03-27T16:57:00.396Z",
               "EditorCaption": ""
@@ -57,9 +57,10 @@
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvwwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-27T15:27:48.92Z"
+              "WhenOpened": "2024-03-27T15:27:48.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,15 +100,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "dot.c",
               "DocumentMoniker": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\dot.c",
               "RelativeDocumentMoniker": "dot.c",
               "ToolTip": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\Project_Code\\dot.c",
               "RelativeToolTip": "dot.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-27T15:26:31.325Z"
+              "WhenOpened": "2024-03-27T15:26:31.325Z",
+              "EditorCaption": ""
             }
           ]
         }
