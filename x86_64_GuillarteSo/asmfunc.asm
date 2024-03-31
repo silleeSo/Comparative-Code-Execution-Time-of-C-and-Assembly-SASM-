@@ -1,12 +1,3 @@
-%include "io64.inc" ;remove when calling from C
-
-;sample data for test, remove when calling from C
-section .data
-vector1 dq 1.0, 2.0, 3.0
-vector2 dq 1.0, 2.0, 3.0
-size dd 3
-
-
 section .text
 bits 64
 default rel
@@ -14,11 +5,6 @@ global calculateDotProduct
 
 
 calculateDotProduct:
-    
-    ;temp move, remove when calling from C
-    lea rdi, [vector1]
-    lea rsi, [vector2]
-    mov rdx, [size]
    
     ;counter
     mov rbx, 0
