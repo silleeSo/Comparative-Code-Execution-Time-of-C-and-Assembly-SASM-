@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:x86_64_GuillarteSo\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:x86_64_GuillarteSo\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\Project_Code\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project_Code\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "asmfunc.asm",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm",
+              "RelativeDocumentMoniker": "x86_64_GuillarteSo\\asmfunc.asm",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm",
+              "RelativeToolTip": "x86_64_GuillarteSo\\asmfunc.asm",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-31T06:12:08.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c",
+              "RelativeDocumentMoniker": "x86_64_GuillarteSo\\main.c",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c",
+              "RelativeToolTip": "x86_64_GuillarteSo\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-31T06:07:28.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\Project_Code\\main.c",
               "RelativeDocumentMoniker": "Project_Code\\main.c",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\Project_Code\\main.c",
               "RelativeToolTip": "Project_Code\\main.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-27T16:36:36.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "functions.h",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\Project_Code\\functions.h",
               "RelativeDocumentMoniker": "Project_Code\\functions.h",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "Project_Code\\functions.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-27T16:36:22.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T16:36:22.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "functions.c",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\Project_Code\\functions.c",
               "RelativeDocumentMoniker": "Project_Code\\functions.c",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "Project_Code\\functions.c",
               "ViewState": "AQIAAAYAAAAAAAAAAAAwwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-27T16:36:12.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T16:36:12.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "dot.h",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\Project_Code\\dot.h",
               "RelativeDocumentMoniker": "Project_Code\\dot.h",
@@ -81,12 +113,11 @@
               "RelativeToolTip": "Project_Code\\dot.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-27T16:35:56.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T16:35:56.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "dot.c",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\Project_Code\\dot.c",
               "RelativeDocumentMoniker": "Project_Code\\dot.c",
@@ -94,8 +125,7 @@
               "RelativeToolTip": "Project_Code\\dot.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-27T16:35:44.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T16:35:44.541Z"
             }
           ]
         }
