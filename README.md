@@ -23,3 +23,13 @@ In essence, the assembly implementation outperforms the C implementation by obta
 2^30
 ![debug-30](https://github.com/silleeSo/LBYARCH-MP2/assets/125237029/e44c56c6-8093-47a6-b39c-f0c38660aa0a)
 
+**RELEASE OUTPUTS**
+2^20
+![release-20](https://github.com/silleeSo/LBYARCH-MP2/assets/125237029/d058f8d7-137b-4554-82e4-84a4e770a499)
+
+2^24
+![release-24](https://github.com/silleeSo/LBYARCH-MP2/assets/125237029/9e254c1a-6a48-4644-9c9c-d6982cd5c175)
+
+2^28 (size was decreased due to memory allocation failure)
+![release 28- closed apps](https://github.com/silleeSo/LBYARCH-MP2/assets/125237029/0ba936f8-9251-4429-b4d7-a2a0bf0e809f)
+
