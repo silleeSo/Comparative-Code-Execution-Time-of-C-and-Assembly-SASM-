@@ -1,26 +1,24 @@
 section .text
-    bits 64
-    default rel
+bits 64
+default rel
+global calculateDotProductAsm
 
-    global getDotProduct
-getDotProduct:
-    sub rsp, 16                  ; Allocate space for the shadow space (3 parameters * 8 bytes each)
-    xorpd xmm0, xmm0             ; Initialize xmm0 to 0.0 for dotProduct
-    xor rcx, rcx                 ; Initialize rcx (loop counter) to 0
-    jmp check_loop_condition     ; Jump to check loop condition
-    
+calculateDotProductAsm:
+    push rbx
+    mov rbx, 0
+    xorpd xmm0, xmm0             ; Clear xmm0 (dotProduct)
 loop_start:
-    mov rax, rcx                 ; Move loop counter (i) to rax for indexing
-    movsd xmm1, [rdi + 8*rax]    ; Load vector1[i] into xmm1
-    movsd xmm2, [rsi + 8*rax]    ; Load vector2[i] into xmm2
-    mulsd xmm1, xmm2             ; Multiply vector1[i] with vector2[i]
-    addsd xmm0, xmm1             ; Add the result to dotProduct in xmm0
-    
-    inc rcx                      ; Increment loop counter (i)
-    
-check_loop_condition:
-    cmp rcx, rdx                 ; Compare loop counter (i) with size
-    jl loop_start                ; Jump to loop_start if i < size
-    
-    add rsp, 16                  ; Restore the stack pointer
-    ret                          ; Return with dotProduct in xmm0
+    cmp rbx, r8                   ; Compare current address with end address
+    je loop_end                   ; If equal, exit loop
+    movsd xmm1, QWORD [rcx]      ; Load double from vector1 to xmm1
+    movsd xmm2, QWORD [rdx]      ; Load double from vector2 to xmm2
+    mulsd xmm1, xmm2              ; Multiply vector1 element with vector2 element
+    addsd xmm0, xmm1              ; Add the result to dotProduct
+    add rcx, 8                   ; Move to next element in vector1
+    add rdx, 8    
+    INC rbx               ; Move to next element in vector2
+    jmp loop_start                ; Repeat the loop
+loop_end:
+    pop rbx
+    xor rax, rax
+    ret

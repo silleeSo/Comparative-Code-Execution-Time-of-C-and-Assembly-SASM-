@@ -1,14 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\x86_64_GuillarteSo\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{332F65CB-531E-417D-89F7-E98E8058FABF}|x86_64_GuillarteSo.vcxproj|C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{332F65CB-531E-417D-89F7-E98E8058FABF}|x86_64_GuillarteSo.vcxproj|C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{332F65CB-531E-417D-89F7-E98E8058FABF}|x86_64_GuillarteSo.vcxproj|solutionrelative:asmfunc.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{332F65CB-531E-417D-89F7-E98E8058FABF}|x86_64_GuillarteSo.vcxproj|C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{332F65CB-531E-417D-89F7-E98E8058FABF}|x86_64_GuillarteSo.vcxproj|C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{332F65CB-531E-417D-89F7-E98E8058FABF}|x86_64_GuillarteSo.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\gs_report.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +21,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gs_report.c",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\gs_report.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\gs_report.c",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\gs_report.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\gs_report.c",
+              "ViewState": "AQIAAMUAAAAAAAAAAAArwNsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-01T07:32:12.851Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "asmfunc.asm",
-              "DocumentMoniker": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm",
               "RelativeDocumentMoniker": "asmfunc.asm",
-              "ToolTip": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\asmfunc.asm",
               "RelativeToolTip": "asmfunc.asm",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-03-27T08:28:52.443Z",
               "EditorCaption": ""
@@ -37,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\Dana\\Desktop\\Personal\\School\\DLSU\\Acads\\2023 - 2024\\Term 2\\LBYARCH\\Assessments\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\LBYARCH-MP2\\x86_64_GuillarteSo\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-26T18:40:00.667Z",
               "EditorCaption": ""

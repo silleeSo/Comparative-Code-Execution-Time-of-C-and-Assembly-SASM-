@@ -140,7 +140,7 @@
     <CustomBuild Include="dot.asm">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
       <FileType>Document</FileType>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Dana\AppData\Local\bin\NASM\nasm -f win64 asmfunc.asm</Command>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\nasm\nasm -f win64 dot.asm</Command>
       <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">dot.obj</Outputs>
     </CustomBuild>
   </ItemGroup>
