@@ -13,10 +13,6 @@ The assembly implementation prioritizes performance over portability and maintai
 In essence, the assembly implementation outperforms the C implementation by obtaining faster execution speeds. However, the option to use assembly should be carefully assessed against the benefits of maintainability, portability, and the opportunity for more optimization.
 
 
-**C WITH ASSEMBLY OUTPUTS**
-
-![Kernel Assembly and C Outputs](https://github.com/silleeSo/LBYARCH-MP2/assets/71592267/5cb257be-46e0-4195-91e8-b0b46aa149d7)
-
 **DEBUG OUTPUTS**
 2^20
 ![debug-20](https://github.com/silleeSo/LBYARCH-MP2/assets/125237029/e9dc3bf6-40ce-4883-b45e-089e87482051)
