@@ -16,3 +16,14 @@ In essence, the assembly implementation outperforms the C implementation by obta
 **C WITH ASSEMBLY OUTPUTS**
 
 ![Kernel Assembly and C Outputs](https://github.com/silleeSo/LBYARCH-MP2/assets/71592267/5cb257be-46e0-4195-91e8-b0b46aa149d7)
+
+**DEBUG OUTPUTS**
+2^20
+![debug-20](https://github.com/silleeSo/LBYARCH-MP2/assets/125237029/e9dc3bf6-40ce-4883-b45e-089e87482051)
+
+2^24
+![debug-24](https://github.com/silleeSo/LBYARCH-MP2/assets/125237029/1b874958-d539-43ed-9836-2a154d154b56)
+
+2^30
+![debug-30](https://github.com/silleeSo/LBYARCH-MP2/assets/125237029/e44c56c6-8093-47a6-b39c-f0c38660aa0a)
+
