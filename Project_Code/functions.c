@@ -26,3 +26,18 @@ double* generateRandomVector(int size) {
     return arr;
 }
 
+void isCorrect(double sdotC, double sdotAssem) {
+    if (sdotC == sdotAssem) {
+        printf("The x86-64 kernel output is CORRECT!\n\n");
+    }
+    else {
+        printf("The x86-64 kernel output is INCORRECT!\n\n");
+    }
+}
+
+double getAverageExecTime(double time) {
+    time /= 30;
+
+    return time;
+}
+
